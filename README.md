@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael
-- 👀 I’m interested in web development
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript and python
 
 - 📫 You can reach me on almiviolad7@gmail.com
